@@ -1,0 +1,21 @@
+crop,district_state,soil,rainfall,temperature,humidity,ndvi,actual_yield
+Wheat,"Ludhiana, Punjab",Alluvial Soil,120.0,32.0,65.0,0.65,3800.0
+Wheat,"Amritsar, Punjab",Alluvial Soil,115.0,31.0,64.0,0.62,3650.0
+Rice,"Bardhaman, WB",Alluvial Soil,210.0,28.0,80.0,0.72,4200.0
+Rice,"Patna, Bihar",Alluvial Soil,195.0,29.0,78.0,0.69,3950.0
+Potato,"Agra, UP",Alluvial Soil,85.0,24.0,55.0,0.58,12500.0
+Potato,"Hassan, Karnataka",Black Soil,92.0,26.0,58.0,0.6,11800.0
+Maize,"Guntur, AP",Red Soil,140.0,33.0,70.0,0.55,5200.0
+Maize,"Nashik, MH",Black Soil,130.0,30.0,68.0,0.54,4900.0
+Sugarcane,"Meerut, UP",Alluvial Soil,160.0,35.0,62.0,0.75,71000.0
+Sugarcane,"Kolhapur, MH",Black Soil,185.0,32.0,66.0,0.78,75000.0
+Mustard,"Bharatpur, Rajasthan",Alluvial Soil,45.0,22.0,48.0,0.45,1850.0
+Mustard,"Bhiwani, Haryana",Alluvial Soil,52.0,23.0,50.0,0.48,1980.0
+Wheat,"Karnal, Haryana",Alluvial Soil,125.0,31.5,63.0,0.66,3920.0
+Wheat,"Bhatinda, Punjab",Alluvial Soil,100.0,33.0,62.0,0.61,3550.0
+Rice,"Kurnool, AP",Black Soil,180.0,30.5,75.0,0.68,4100.0
+Rice,"Raipur, Chhattisgarh",Red Soil,205.0,29.0,79.0,0.7,3980.0
+Tomato,"Kolar, Karnataka",Red Soil,95.0,28.0,60.0,0.56,14200.0
+Tomato,"Nashik, MH",Black Soil,102.0,27.5,62.0,0.59,14800.0
+Potato,"Hooghly, WB",Alluvial Soil,88.0,23.5,54.0,0.59,12800.0
+Maize,"Davanagere, Karnataka",Black Soil,135.0,31.0,67.0,0.56,5100.0
